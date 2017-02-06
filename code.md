@@ -1,6 +1,3 @@
-# notes
-misc.
-
 # Code
 ## Shell
 * Show which ports applications are bound to (MacOS) `sudo lsof -iTCP -sTCP:LISTEN -n -P`
