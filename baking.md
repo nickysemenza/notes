@@ -62,3 +62,18 @@ bake 22-25
 * 1/2 tsp salt
 
 Bake at 350 for 20-25 min
+
+##Donuts
+1. Roll out brioché dough to 1/2", 1 batch is ~26 donuts
+2. Stamp, and let rise for 20-60 minutes
+3. Fry at 350°
+
+###Chocolate Glaze
+1. heat 1 stick of butter, and 1/4 cup milk, and 2sp vanilla and heat
+2. stir in 4oz chocolate
+3. stir in 2 cups confectioners sugar
+###Traditional Glaze
+1. add 1/4 cup milk with 2tsp vanilla and heat
+2. stir in 2 cups confectioners sugar
+###Cinnamon Sugar
+1 cup of sugar + 2tbsp cinnamon
