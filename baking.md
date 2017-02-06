@@ -72,8 +72,10 @@ Bake at 350 for 20-25 min
 1. heat 1 stick of butter, and 1/4 cup milk, and 2sp vanilla and heat
 2. stir in 4oz chocolate
 3. stir in 2 cups confectioners sugar
+
 ###Traditional Glaze
 1. add 1/4 cup milk with 2tsp vanilla and heat
 2. stir in 2 cups confectioners sugar
+
 ###Cinnamon Sugar
 1 cup of sugar + 2tbsp cinnamon
