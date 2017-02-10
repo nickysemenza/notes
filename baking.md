@@ -79,3 +79,22 @@ Bake at 350 for 20-25 min
 
 ###Cinnamon Sugar
 1 cup of sugar + 2tbsp cinnamon
+
+##Zuchini Cake
+
+Mix 1:
+* 270g flour
+* 1/2 tsp baking soda
+* 1/2 tsp baking powder
+* 1 tsp cinnamon
+
+Mix 2:
+* 2 eggs
+* 1/2 cup + 2tbsp oil / 155ml
+* 150g sugar
+* 1/2cup (115g) marmalade
+
+1. Add mix 1 to mix 2, then add `115g coarsely chopped walnuts`
+2. Pour into oiled and floured 9x5 loaf pan
+3. Sprinkle sugar on top
+4. Bake for 60-70 min 
