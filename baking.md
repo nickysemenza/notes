@@ -99,4 +99,4 @@ Mix 2:
 1. Add mix 1 to mix 2, then add `115g coarsely chopped walnuts`
 2. Pour into oiled and floured 9x5 loaf pan
 3. Sprinkle `2 tbsp sugar` on top
-4. Bake for 60-70 min 
+4. Bake for 60-70 min @ 350 °F
