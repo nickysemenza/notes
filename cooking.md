@@ -61,3 +61,38 @@ Soak bread slices until liquid has penetrated fully, then cook on medium heat on
 * 1/4 tsp salt
 * 1/4 tsp vanilla
 
+#Indian
+
+##Channa
+
+In a food processor:
+
+* 1 inch of ginger
+* 4 cloves of garlic
+* 4 thai chilies
+* 1 tbsp lemon juice
+* 1/2 tsp salt
+
+In a pot with `2 tbsp oil/ghee`, add
+
+* 2 tsp mustard seed
+* 1 tsp cumin seed 
+* (wait 30 seconds)
+* 1 diced onion
+* 1/4 tsp baking soda
+* 1 tsp water
+
+wait ten minutes, then add the paste, then add
+
+* 2 tsp ground coriander
+* 1/2 tsp ground pepper
+* 1/2 tsp gurmeric
+* 1 tsp garam masala
+* (stir)
+* 1 small can tomatoes
+* 2x can chickpeas
+* some cilantro
+* 1/2 cup water
+
+Cook 30 min, then add `1 tbsp lemon juice` and `1/2 tsp garam`, sprinkle cilantro
+
