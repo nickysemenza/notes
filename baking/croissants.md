@@ -2,9 +2,22 @@
 
 KITCHEN NOTES: To maintain the correct consistency of the dough and butter components, work in a cool kitchen up until the final rising of the shaped pastries. The preferment, a mixture of milk, yeast, and flour with the consistency of a batter, is left to rise so that it will ferment slightly, developing flavor and aroma, before the dough is mixed. It can be made in the morning and allowed to rise at room temperature for 2 to 3 hours to make the croissant dough the same day, or it can be made at night, put in the refrigerator to rise overnight, and used to make the croissant dough straightaway the next morning.
 
+##Preferment
+* .75 cup milk
+* 1 tbsp active dry yeast
+* 175g flour
+
 To make the preferment, in a small saucepan, warm the milk only enough to take the chill off. The milk should not be warm or cold to the touch but in between the two (80° to 90°F). Pour the milk into a mixing bowl, sprinkle the yeast over the milk, stir to dissolve the yeast with a wooden spoon, and then add the flour, mixing with the spoon until a smooth batter forms. 
 
 **[cover, proof 2-3 hours / overnight]**
+
+##Dough
+* 1tbsp+1tsp active dry yeast
+* 1.75 cups milk
+* 800g flour
+* 70g sugar
+* 1tbsp+1tsp salt
+* 1tbsp melted butter
 
 To make the dough, first measure out all the ingredients and place them near at hand. Transfer the preferment and then the yeast to the large bowl of a stand mixer fitted with the dough hook. Mix on low speed until the yeast is incorporated into the preferment batter, which will take a minute or two. Stop the mixer as needed and use a spatula to clean the bottom and sides of the bowl, folding the loosened portion
 into the mixture to incorporate all the elements fully. When the mixture has come together into an even, well-mixed mass, increase the speed to medium, and mix for a couple of minutes. Slowly add half of the milk and continue to mix until the milk is fully incorporated.
@@ -21,7 +34,7 @@ Lightly flour a work surface. Transfer the dough to the floured surface and pres
 
 **[chill in fridge 4-6 hours]**
 
-About 1 hour before you are ready to start laminating the dough, put the butter that you will be rolling into the dough in the bowl of the mixer fitted with the paddle attachment. Mix on medium speed until malleable but not warm or soft, about 3 minutes. Remove the butter from the bowl, wrap in plastic wrap, and place in the refrigerator to chill but not resolidify.
+About 1 hour before you are ready to start laminating the dough, put the butter that you will be rolling into the dough in the bowl of the mixer fitted with the paddle attachment.(`625g butter`) Mix on medium speed until malleable but not warm or soft, about 3 minutes. Remove the butter from the bowl, wrap in plastic wrap, and place in the refrigerator to chill but not resolidify.
  
 Now you are ready to begin laminating the dough. First, lightly dust a cool work surface, and then remove the chilled dough and the butter from the refrigerator. Unwrap the dough and place it on the floured surface. Roll out the dough into a rectangle 28 by 12 inches. With a long side of the rectangle facing you, and starting from the left side, spread and spot the butter over two-thirds of the length of the rectangle. Fold the uncovered third over the butter and then fold the left-hand third over the center, as if folding a business letter. The resulting rectangle is known as a plaque. With your fingers, push down along the seams on the top and the bottom to seal the butter in the plaque.
 Give the plaque a quarter turn so that the seams are to your right and left, rather than at the top and bottom. Again roll out the dough into a rectangle 28 by 12 inches, and fold again in the same manner. Wrap in plastic wrap or slip into a plastic bag and place in the 
