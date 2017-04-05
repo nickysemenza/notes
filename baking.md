@@ -1,6 +1,6 @@
-#Baking
+# Baking
 
-##Brioche Dough
+## Brioche Dough
 * 340g 100°F water
 * 10g yeast
 * 20g salt
@@ -12,9 +12,9 @@
 1. Mix the first 6 ingredients together, then add the flour and mix till incorporated
 2. Leave at room temp for 2 hours
 3. Chill in fridge for 3 hours
-4. Use within 5 days
+4. Use within 5 days, makes about 2.5 lbs
 
-##Pecan bars
+## Pecan bars
 Needs 436 g pecans total
 Preheat the oven to 350
 foil sling and grease a 9x13 pan
@@ -25,7 +25,7 @@ bake for 20
 
 mix, simprinkle pecans on top
 bake 22-25
-###Shortbread crust
+### Shortbread crust
 * 10 oz flour
 * 1/2 tsp bp 
 * 2 tsp salt
@@ -37,7 +37,7 @@ bake 22-25
 2. Add the butter and pulse 8x
 3. Pour the cumbly dough into the plan and pat down
 4. Bake for 20
-###Filling
+### Filling
 * 8 tbsp melted butter
 * 7 oz brown sugar
 * 2/3 cup corn syrup (208g)
@@ -51,7 +51,7 @@ bake 22-25
 2. Sprinkle coarsely chopped pecans on top
 3. Bake for 25 min
 
-##Brownies
+## Brownies
 * 1 cup oil/butter
 * 2 cups sugar (400g)
 * 2 tsp vanilla
@@ -63,24 +63,24 @@ bake 22-25
 
 Bake at 350 for 20-25 min
 
-##Donuts
-1. Roll out brioché dough to 1/2", 1 batch is ~26 donuts
+## Donuts
+1. Roll out brioché dough to 1/2", 1 batch (2.5lbs) is ~26 donuts
 2. Stamp, and let rise for 20-60 minutes
 3. Fry at 350°
 
-###Chocolate Glaze
+### Chocolate Glaze
 1. heat 1 stick of butter, and 1/4 cup milk, and 2sp vanilla and heat
 2. stir in 4oz chocolate
 3. stir in 2 cups confectioners sugar
 
-###Traditional Glaze
+### Traditional Glaze
 1. add 1/4 cup milk with 2tsp vanilla and heat
 2. stir in 2 cups confectioners sugar
 
-###Cinnamon Sugar
+### Cinnamon Sugar
 1 cup of sugar + 2tbsp cinnamon
 
-##Zucchini Cake
+## Zucchini Cake
 
 Mix 1:
 * 270g flour
